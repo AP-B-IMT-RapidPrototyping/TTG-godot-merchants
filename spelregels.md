@@ -6,7 +6,7 @@ Standaard 52 speelkaarten + jokers
 
 ## Doel
 
-Overleven tot het einde van de tijdslimiet of de meeste HP hebben.
+Overleven tot het einde van de tijdslimiet of de m eeste HP hebben.
 
 ## Setup
 
