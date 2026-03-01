@@ -1,31 +1,30 @@
-Naam van het spel: Tower Cards
+# Naam van het spel: Tower Cards
 
-Ontwikkelaars:
+## Ontwikkelaars
 
-Elisha Osanwonwyi
-Tutku Gonen
-Rahmesh Madadi
-Shengyan Ding
-El Mahdi
+- El Mahdi
+- Elisha Osanwonwyi
+- Rahmesh Madadi
+- Shengyan Ding
+- Tutku Gonen
 
-Godot Merchants
+## Godot Merchants
 
-[itch.io link
-](https://marsd.itch.io/tabletopgaaaaame)
+[itch.io link](https://marsd.itch.io/tabletopgaaaaame)
 
-Korte samenvatting
+## Korte samenvatting
 
 Een spel waarin je plant en op de toren van anderen schiet, met strategie van schijfgebruik.
 
-Spelgids
+## Spelgids
 
 Zie spelregels
 
-Radical Revisions
+## Radical Revisions
 
 We hebben het schieten van toeren toegevogd, en spelkaarten vervangd door schijven.
 
-Bijlages
+## Bijlages
 
 <img width="750" height="1000" alt="image" src="https://github.com/user-attachments/assets/447a9ea7-52fc-4020-80e5-c1780a721a1a" />
 <img width="1170" height="1468" alt="image" src="https://github.com/user-attachments/assets/a6e48aff-af83-461d-a311-0a3aacb1bccd" />
